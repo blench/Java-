@@ -50,7 +50,7 @@
 	{%>
 		<center>
 			<br/><br/><br/>
-			<img src="image/page/first.jpg" 
+			<img src="http://localhost:8080/LyonsEbay/image/page/first.jpg" 
 			width="700px" height="500px"/>
 		</center>
 	<%}

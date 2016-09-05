@@ -16,6 +16,7 @@ public class Login implements Serializable{
 	private String userName="";
 	private String backNews="未登录";
 	
+	//泛型
 	private LinkedList<String> car=null;//购物车，订单
 	
 	public Login(){
